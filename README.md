@@ -38,4 +38,9 @@ Hi, I'm Harsh Tiwari, a passionate software engineer who likes to learn, use the
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="c" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></code>
+
+
+
+
