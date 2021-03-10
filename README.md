@@ -55,9 +55,9 @@ Hi, I'm Harsh Tiwari, a passionate software engineer who likes to learn, use the
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princewillzz&" alt="princewillzz" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princewillzz&label=Profile%20views&color=0e75b6&style=flat" alt="princewillzz" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princewillzz" alt="princewillzz" /></a> </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=princewillzz&label=Profile%20views&color=0e75b6&style=flat" alt="princewillzz" /> </p>
 
 
