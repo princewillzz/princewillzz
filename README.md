@@ -19,6 +19,9 @@ Hi, I'm Harsh Tiwari, a passionate software engineer who likes to learn, use the
 <a href="https://linkedin.com/in/harsh-tiwari-0a710b168" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harsh-tiwari-0a710b168" height="30" width="40" /></a>
 </p>
 
+<hr/>
+
+
 **Languages and Tools:**
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40" height="40"/></code>
@@ -46,7 +49,7 @@ Hi, I'm Harsh Tiwari, a passionate software engineer who likes to learn, use the
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></code>
 
-
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princewillzz&show_icons=true&locale=en&layout=compact" alt="princewillzz" /></p>
 
