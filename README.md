@@ -16,7 +16,8 @@ Hi, I'm Harsh Tiwari, a passionate software engineer who likes to learn, use the
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsh-tiwari-0a710b168" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harsh-tiwari-0a710b168" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh2212" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harsh2212" height="30" width="40" /></a>
+<a href="mailto:harshtiwariai@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="harsh-tiwari" height="30" width="40" /></a>
 </p>
 
 <hr/>
