@@ -6,7 +6,7 @@ Hi, I'm Harsh Tiwari, a passionate software engineer who likes to learn, use the
 
 -   🔭 I’m currently working on UntangledChat
 -   🌱 I’m currently learning React Native, Spring Reactive, NodeJS
--   👯 I’m looking for a internship in Full-Stack Development 
+-   👯 I’m looking for an internship as a Full-Stack Developer 
     <!-- - 👯 I’m looking to collaborate on ... -->
     <!-- - 🤔 I’m looking for help with ... -->
     <!-- - 💬 Ask me about ... -->
